@@ -8,7 +8,7 @@ import static java.lang.System.out;
 
 public class StaffDao {
 
-    String dbURL = "jdbc:postgresql://postgres:xVWAUtUsmPncHKGsYVYdMjcuCeYovkOw@viaduct.proxy.rlwy.net:18234/railway";
+    String dbURL = "jdbc:postgresql://viaduct.proxy.rlwy.net:18234/railway";
     String user = "postgres";
     String pass = "xVWAUtUsmPncHKGsYVYdMjcuCeYovkOw";
   
