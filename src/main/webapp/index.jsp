@@ -18,7 +18,7 @@
   <section class="home-section">
     <nav>
       <div class="sidebar-button">
-        <span class="dashboard">SURAU AR-RAHMAN BANDAR PUCHONG JAYA</span>
+        <span class="dashboard">SURAU ARR-RAHMAN BANDAR PUCHONG JAYA</span>
       </div>
       <div class="media_icons">
           <a href="https://www.facebook.com/sarpuchongjaya/"><i class="fab fa-facebook-f"></i></a>
